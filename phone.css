@@ -9,13 +9,13 @@
 }
 /* Home Section   */
 #home{
-    height: 700px;
+    height: 650px;
     padding: 0px 68px;
 }
 
 #home::before{
-    height: 800px;
-    width: 125%;
+    height: 750px;
+    width: 100%;
 } 
 
 #home p{
