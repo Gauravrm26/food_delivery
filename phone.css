@@ -1,9 +1,6 @@
 /* Navigation  */
 #navbar{
     flex-direction: column;
-    overflow: hidden;
-    width: 100%;
-}
 }
 
 #navbar ul li a {
