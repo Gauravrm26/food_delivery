@@ -9,12 +9,12 @@
 }
 /* Home Section   */
 #home{
-    height: 650px;
+    height: 700px;
     padding: 0px 68px;
 }
 
 #home::before{
-    height: 770px;
+    height: 800px;
     width: 125%;
 } 
 
