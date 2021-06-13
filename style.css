@@ -40,6 +40,7 @@
     color: black;
     background-color: white;
     border-radius: 10px;
+    border: 2px solid rgb(248, 160, 44);
 }
 #navbar::before{
     content: "";
